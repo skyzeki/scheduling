@@ -19,6 +19,9 @@ if ('serviceWorker' in navigator) {
     .then(() => { console.log('Service Worker Registered'); });
 }
 
+// Moving the bar according to the time of day
+
+
 // Code to handle install prompt on desktop
 
 let deferredPrompt;

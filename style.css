@@ -43,6 +43,13 @@ img {
     z-index: 1;
 }
 
+.myDiv {
+  width: 263px;
+  height: 90px;
+  background-color: green;
+  border: none;
+}
+
 @media (orientation: landscape) {
   img {
     height: 100%;
